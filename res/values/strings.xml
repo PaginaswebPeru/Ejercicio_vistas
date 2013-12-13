@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejemplo_Vistas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="lblnombre">Nombre:</string>
+	<string name="lblapellidos">Apellidos:</string>
+	<string name="lblsexo">Sexo:</string>
+	<string name="lblbtn">Registrar</string>
+</resources>
